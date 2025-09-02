@@ -153,10 +153,7 @@ git fetch origin && git merge origin/main
 ---
 
 ## Contributors
- dale988/feature-readme
-- Fortaleza, Dale Christian (**dale988**)
-- @blissfuljuan
-=======
-- _Add your name here in Task C_
 - Revilleza, Frederick (**@blissfuljuan**)
-main
+- Montejo, Primo Christian (**@primzcm**)
+- Monteclaro, Kurt David M. (**@kurtmonteclaro**)
+- Fortaleza, Dale Christian (**dale988**)
