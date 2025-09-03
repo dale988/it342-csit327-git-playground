@@ -157,6 +157,5 @@ git fetch origin && git merge origin/main
 - Montejo, Primo Christian (**@primzcm**)
 - Monteclaro, Kurt David M. (**@kurtmonteclaro**)
 - Pancito, Christian Harry R.(**@seeudev**)
-- Fortaleza, Dale Christian (**dale988**)
 - Ortega, Khryzia (**@TheLaughingFrog**)
 - Fortaleza, Dale Christian (**dale988**)
